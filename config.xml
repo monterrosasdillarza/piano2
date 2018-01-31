@@ -23,5 +23,5 @@
 		<!-- PARA QUE EL DISPOSITIVO SIEMPRE ESTE DE FORMA HORIZONTAL-->
 		<preference name="orientation" value="landscape" />
 		<preferance name="premissions" value="INTERNET"/>
-		<icon src="res/android/mdpi.png"/>
+		<icon src="res/android/mdpi.jpeg"/>
 </widget>
